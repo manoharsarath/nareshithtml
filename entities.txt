@@ -1,0 +1,23 @@
+<html>
+<body>
+1)&lt
+2)&gt;=>
+3)&amp;=&
+4)&nbsp;=space
+5)&trade;= display trade mark
+6)&reg;= display registered symbol
+7)&copy;=display copyright symbol
+8)&yen;=display currency symbol
+9)&pound;=display pound symbol
+10)&euro;= display euro symbol
+11)&cent;= display cent symbol
+12)&alpha;=display alpha symbol
+13)&beta;=display beta symbol
+14)&gamma;=display gamma symbol
+15)&apos;=''
+16)&quot;=""
+17)&spades;=display spade symbol
+18)&diams;=display diamond symbol
+19)&hearts;=display heart symbol
+20)&clubs;=display club symbol
+</body></html>
